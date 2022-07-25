@@ -46,6 +46,9 @@
                     <button class="btn btn-outline-success" type="submit">Search</button>
                     <button class="btn btn-outline-success" type="submit">Submit this</button>
                         <p>This is add by other or git</p>
+                        
+                        <button class="btn btn-outline-success" type="submit">Search</button>
+                    <button class="btn btn-outline-success" type="submit">Submit this</button>
                 </form>
                 </div>
 

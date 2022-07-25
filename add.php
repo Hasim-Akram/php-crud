@@ -62,6 +62,7 @@
                     <li class="nav-item">
                     <a class="nav-link" href="#">Link</a>
                     </li>
+
                 
                 </ul>
                 <form class="d-flex">
@@ -118,6 +119,8 @@
             <div class="mb-3">
                 <label for="password" class="form-label">password</label>
                 <input type="password" class="form-control"  name="password">
+                <button class="btn btn-outline-success" type="submit">Search</button>
+                    <button class="btn btn-outline-success" type="submit">Submit this</button>
                 
             </div>
            
